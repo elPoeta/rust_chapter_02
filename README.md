@@ -1,2 +1,7 @@
-# rust_chapter_02
-Rust Chapter II
+# Rust Chapter II
+
+### Add rand dependencie
+
+```shell
+cargo add rand
+```
